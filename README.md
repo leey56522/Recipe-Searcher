@@ -9,7 +9,7 @@ Click on the recipe to get the direction and ingredients.
 The orange theme was chosen to improve appetite.
 
 ## Things I learned
-1. Using asnc await function to grab data from the meal database API and render it on innerHTML
+1. Using async await function to grab data from the meal database API and render it on innerHTML
 2. Creating a toggle-able class to determine if a recipe is 'favorite' or not
 3. Using local storage to store an array of favorite recipe and manipulating data
 
